@@ -9,7 +9,7 @@ Hopefulness i will leave this account with Speacil Expectations Beyond The Horiz
 
 💡 I’m currently learning everything
 
-👨🏻‍💻 Learning all about Open Source
+👨🏻‍💻 All about Open Source
 
 ⚡️ Techno Music Fan
  
