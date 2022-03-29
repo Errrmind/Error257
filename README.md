@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Error257 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=10000&multiline=true&lines=Hopefulness+i+will+leave+this+account+;With+Speacil+Expectations;Beyond+The+Horizon+With+a+Full+Measearus+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=10000&center=true&vCenter=true&lines=Hopefulness+i+will+leave+this+account+;With+Speacil+Expectations;Beyond+The+Horizon+With+a+Full+Measearus+)](https://git.io/typing-svg)
 
 
 
