@@ -20,8 +20,6 @@
 
 ⚡️ Techno Music Fan
 
-
-
 🗄️ Databases and cloud hosting
 
-GitHub Pages Heroku MongoDB MySQL Notion Oracle PostgreSQL Repl.it SQLite Vercel 
+
