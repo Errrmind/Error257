@@ -22,6 +22,20 @@
 
 ⚡️ Techno Music Fan
 
+💡 I love innovation and new technologies
+
+🤝 I’m looking to collaborate with other content creators
+
+🥅 2022 Goals: Contribute more to Open Source projects
+
+🚀 One day I will see humans on Mars!
+ 
+
+
+<br />
+
+<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
+
 
 ## 💻 Tech Stack
 
