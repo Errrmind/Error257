@@ -1,5 +1,7 @@
 ### Hi There ✌️ I'm Error257 
 
+<script src="https://randojs.com/2.0.0.js"></script>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=10000&color=F7105F&multiline=true&lines=Hopefulness+i+will+leave+this+account+;With+Speacil+Expectations;Beyond+The+Horizon+With+a+Full+Measearus+)](https://git.io/typing-svg)
 
 
